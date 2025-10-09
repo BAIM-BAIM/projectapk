@@ -1,0 +1,14 @@
+[
+  {
+    "username": "099",
+    "password": "099",
+    "role": "ADMIN",
+    "expired": "2025-12-31T23:59:59.000Z"
+  },
+  {
+    "username": "0999",
+    "password": "0999",
+    "role": "VIP",
+    "expired": "2025-10-15T23:59:59.000Z"
+  }
+]
