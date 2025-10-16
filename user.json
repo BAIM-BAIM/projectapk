@@ -6,29 +6,29 @@
     "expired": "2025-12-31T23:59:59.000Z"
   },
   {
-    "username": "123",
+    "username": "KONTOL",
     "password": "123",
     "role": "reseller",
     "expired": "2025-10-15T23:59:59.000Z"
   },
   {
-    "username": "123",
-    "password": "123",
-    "role": "",
-    "expiresAt": null,
+    "username": "NizarNewEra01",
+    "password": "Nizar100",
+    "role": "user",
+    "expiresAt": "2025-10-15T23:59:59.000Z"
     "createdAt": 1759992974064
   },
   {
-    "username": "12",
-    "password": "09",
-    "role": "user",
-    "expiresAt": null,
+    "username": "wafa",
+    "password": "wafa01",
+    "role": "reseller",
+    "expiresAt": "2025-10-15T23:59:59.000Z"
     "createdAt": 1760521341164
   },
   {
-    "username": "1234",
-    "password": "123",
-    "role": "",
+    "username": "TIRZZ",
+    "password": "TIRZZ ANTI TUMBANG",
+    "role": "reseller",
     "expiresAt": 1792070248467,
     "createdAt": 1760534248473
   }
