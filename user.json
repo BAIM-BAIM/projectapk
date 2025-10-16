@@ -6,7 +6,19 @@
     "expired": "2025-12-31T23:59:59.000Z"
   },
   {
+    "username": "YUHI",
+    "password": "YUHI12",
+    "role": "reseller",
+    "expired": "2025-10-15T23:59:59.000Z"
+  }, 
+  {
     "username": "KONTOL",
+    "password": "123",
+    "role": "reseller",
+    "expired": "2025-10-15T23:59:59.000Z"
+  },
+  {
+   "username": "KONTOL",
     "password": "123",
     "role": "reseller",
     "expired": "2025-10-15T23:59:59.000Z"
